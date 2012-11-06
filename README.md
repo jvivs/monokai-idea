@@ -33,36 +33,36 @@
 
 ## Colors
 
-$magenta: F92572
-	Keywords, Operators
-	HTML/XML Tags
-	Closure Template Variables
-	CSS Tags
-	CSS Imports
+*$magenta*: F92572
+- Keywords, Operators
+- HTML/XML Tags
+- Closure Template Variables
+- CSS Tags
+- CSS Imports
 
-$warm_gray: 625F4C
-	Comments
+*$warm_gray*: 625F4C
+- Comments
 
-$bg_dark_gray: 222425
-	Background
-$bg_dark_gray_lt: 3B3F40
-	Background Highlight
+*$bg_dark_gray*: 222425
+- Background
 
+*$bg_dark_gray_lt*: 3B3F40
+- Background Highlight
 
-$aqua: 66D9EF
-	Scala/Java Class, Types
-	JS Instance member
-	CSS Property Names
-	SASS Mixins
+*$aqua*: 66D9EF
+- Scala/Java Class, Types
+- JS Instance member
+- CSS Property Names
+- SASS Mixins
 
-$blue_green: 00B1B1
-	Closure Template Namespaces
-	JS Regex
+*$blue_green*: 00B1B1
+- Closure Template Namespaces
+- JS Regex
 
-$blue: 287BDE
-	Closure Template Commands
-	JS Instance method
-	SASS variables
+*$blue*: 287BDE
+- Closure Template Commands
+- JS Instance method
+- SASS variables
 
 
 $dirrrty_yellow: E6DB74
