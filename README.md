@@ -32,8 +32,8 @@
 - SQL
 
 ## Colors
+[](http://www.colorhexa.com/F92572)
 
-http://www.colorhexa.com/F92572
 *$magenta*: F92572
 - Keywords, Operators
 - HTML/XML Tags
