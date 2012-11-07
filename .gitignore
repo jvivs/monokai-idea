@@ -1,0 +1,7 @@
+# IntelliJ IDEA specific
+.idea/
+.idea_modules/
+*.iml
+
+# Mac specific
+.DS_Store

@@ -33,6 +33,7 @@
 
 ## Colors
 
+http://www.colorhexa.com/F92572
 *$magenta*: F92572
 - Keywords, Operators
 - HTML/XML Tags
@@ -54,6 +55,8 @@
 - JS Instance member
 - CSS Property Names
 - SASS Mixins
+- Closure Template parameter options
+
 
 *$blue_green*: 00B1B1
 - Closure Template Namespaces
@@ -64,36 +67,34 @@
 - JS Instance method
 - SASS variables
 
+*$dirrrty_yellow*: E6DB74
+- Strings, Attribute Values
+- HTML: Attribute Value
+- CSS units
 
-$dirrrty_yellow: E6DB74
-	Strings, Attribute Values
-	HTML: Attribute Value
-	CSS units
+*$lavendar*: 9C65FF
+- Numbers
+- Entity References (Character and HTML)
 
-$lavendar: 9C65FF
-	Numbers
-	Entity References (Character and HTML)
+*$lavender_lt*: A857FF
+- Invalid Character Entity References
 
-$lavender_lt: A857FF
-	Invalid Character Entity References
+*$lime_green*: A6E22E
+- ATTRIBUTE_KEYS, TYPES, METHODS
+- JS Global Functions
+- Closure Template Identifiers
+- CSS Identifiers (classes, attributes, etc)
 
-$lime_green: A6E22E
-	ATTRIBUTE_KEYS, TYPES, METHODS
-	JS Global Functions
-	Closure Template Identifiers
-	CSS Identifiers (classes, attributes, etc)
+*$lime_green_dark*: 71B223
+- JS Global Variables
 
+*$orange*: FD971F
+- Scala/Java Parameters
+- Closure Template Functions
+- CSS Urls
 
-$lime_green_dark: 71B223
-	JS Global Variables
-
-$orange: FD971F
-	Scala/Java Parameters
-	Closure Template Functions
-	CSS Urls
-
-$light_orange: FFAF54
-	Reassigned Parameter: FFAF54
+*$light_orange*: FFAF54
+- Reassigned Parameter: FFAF54
 
 
 
