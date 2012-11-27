@@ -2,7 +2,7 @@
 <scheme name="Monokai-IDEA" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
     <option name="CARET_COLOR" value="ffff99" />
@@ -15,9 +15,9 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="666666" />
     <option name="SELECTED_FOLDING_TREE_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="403d3d" />
+    <option name="SELECTION_BACKGROUND" value="343131" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="WHITESPACES" value="5b5b5b" />
+    <option name="WHITESPACES" value="343434" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -940,6 +940,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="JS.DOC_MARKUP">
       <value>
         <option name="FOREGROUND" />
@@ -964,9 +974,9 @@
       <value>
         <option name="FOREGROUND" value="a6e22e" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -982,7 +992,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="7a7a2b" />
+        <option name="FOREGROUND" value="a6e22e" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1022,7 +1032,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="66d9ef" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2080,9 +2090,39 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="SASS_EXTEND">
+      <value>
+        <option name="FOREGROUND" value="f92572" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="SASS_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="a6e22e" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f92572" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2092,17 +2132,37 @@
     </option>
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FOREGROUND" value="f92572" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="f92572" />
+        <option name="EFFECT_TYPE" value="5" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
     <option name="SASS_NUMBER">
       <value>
         <option name="FOREGROUND" value="a857ff" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2124,7 +2184,17 @@
       <value>
         <option name="FOREGROUND" value="e6db74" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SASS_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="f92572" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -2132,9 +2202,9 @@
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="287bde" />
+        <option name="FOREGROUND" value="fd971f" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -2510,6 +2580,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="Scala Class method call">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="5" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="Scala Immutable Collection">
       <value>
         <option name="FOREGROUND" />
@@ -2537,6 +2617,16 @@
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="Scala Local method call">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="5" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -2590,6 +2680,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="Scala Object method call">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="5" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="Scala Parameter">
       <value>
         <option name="FOREGROUND" value="fd971f" />
@@ -2612,9 +2712,9 @@
     </option>
     <option name="Scala Predefined types">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="6d951c" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />

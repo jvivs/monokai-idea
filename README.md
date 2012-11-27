@@ -1,13 +1,15 @@
-# Monokai For IntelliJ IDEA 11.
+# Monokai For IntelliJ IDEA, updated for v12.
+
+For v11 support please use the monokai-idea/v11 branch.
 
 ## Supported Languages:
 
 ### Now: 
 
-- Scala
-- Javascript
+- Scala ++
+- Javascript ++
 - CSS
-- SASS
+- SASS ++
 - LESS
 - HTML
 - XML
@@ -15,8 +17,8 @@
 
 ### Later:
 
-- MOAR Scala
-- MOAR Java
+- moar Scala
+- moar Java
 - Python
 - PHP
 - Django/Jinja Templates
@@ -33,8 +35,6 @@
 
 ## Colors
 
-
-
 **$magenta**: #F92572
 
 ![](http://www.colorhexa.com/f92572.png)
@@ -44,20 +44,24 @@
 - CSS Tags
 - CSS Imports
 
+
 **$warm_gray**: #625F4C
 
 ![](http://www.colorhexa.com/625f4c.png)
 - Comments
+
 
 **$bg_dark_gray**: #222425
 
 ![](http://www.colorhexa.com/222425.png)
 - Background
 
+
 **$bg_dark_gray_lt**: #3B3F40
 
 ![](http://www.colorhexa.com/3b3f40.png)
 - Background Highlight
+
 
 **$aqua**: #66D9EF
 
@@ -69,11 +73,13 @@
 - Closure Template parameter options
 
 
+
 **$blue_green**: #00B1B1
 
 ![](http://www.colorhexa.com/00b1b1.png)
 - Closure Template Namespaces
 - JS Regex
+
 
 **$blue**: #287BDE
 
@@ -82,6 +88,7 @@
 - JS Instance method
 - SASS variables
 
+
 **$dirrrty_yellow**: #E6DB74
 
 ![](http://www.colorhexa.com/e6db74.png)
@@ -89,16 +96,19 @@
 - HTML: Attribute Value
 - CSS units
 
+
 **$lavendar**: #9C65FF
 
 ![](http://www.colorhexa.com/9c65ff.png)
 - Numbers
 - Entity References (Character and HTML)
 
+
 **$lavender_lt**: #A857FF
 
 ![](http://www.colorhexa.com/a857ff.png)
 - Invalid Character Entity References
+
 
 **$lime_green**: #A6E22E
 
@@ -107,6 +117,7 @@
 - JS Global Functions
 - Closure Template Identifiers
 - CSS Identifiers (classes, attributes, etc)
+
 
 **$lime_green_dark**: #71B223
 
@@ -130,10 +141,10 @@
 
 ### OS X
 
-Place the .xml in ~/Library/Preferences/IdeaIC11/colors/ and restart IDEA.
+Place the .xml in ~/Library/Preferences/IntellijIdea12/colors/ and restart IDEA.
 
 ### Windows
-Place the .xml in %HOMEPATH%.IntelliJIdea11\config\colors and restart IDEA.
+Place the .xml in %HOMEPATH%.IntelliJIdea12\config\colors and restart IDEA.
 
 
 Credits and Stuff:
