@@ -1,5 +1,7 @@
 # Monokai For IntelliJ IDEA, updated for v12.
 
+For v11 support please use the monokai-idea/v11 branch.
+
 ## Supported Languages:
 
 ### Now: 
