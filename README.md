@@ -1,13 +1,13 @@
-# Monokai For IntelliJ IDEA 11.
+# Monokai For IntelliJ IDEA, updated for v12.
 
 ## Supported Languages:
 
 ### Now: 
 
-- Scala
-- Javascript
+- Scala ++
+- Javascript ++
 - CSS
-- SASS
+- SASS ++
 - LESS
 - HTML
 - XML
@@ -15,8 +15,8 @@
 
 ### Later:
 
-- MOAR Scala
-- MOAR Java
+- moar Scala
+- moar Java
 - Python
 - PHP
 - Django/Jinja Templates
@@ -139,10 +139,10 @@
 
 ### OS X
 
-Place the .xml in ~/Library/Preferences/IdeaIC11/colors/ and restart IDEA.
+Place the .xml in ~/Library/Preferences/IntellijIdea12/colors/ and restart IDEA.
 
 ### Windows
-Place the .xml in %HOMEPATH%.IntelliJIdea11\config\colors and restart IDEA.
+Place the .xml in %HOMEPATH%.IntelliJIdea12\config\colors and restart IDEA.
 
 
 Credits and Stuff:
